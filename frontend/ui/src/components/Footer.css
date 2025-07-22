@@ -1,0 +1,9 @@
+.footer a:hover {
+  color: #4db8ff !important;
+  transition: color 0.3s ease-in-out;
+}
+
+.footer hr {
+  width: 60%;
+  margin: 1.5rem auto;
+}

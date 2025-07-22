@@ -1,0 +1,101 @@
+.list{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 10px;
+  
+}
+
+.genPDF {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.genPDF button {
+  background: linear-gradient(135deg, #4CAF50, #45a049);
+  color: white;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(76, 175, 80, 0.2);
+  transition: all 0.3s ease;
+  outline: none;
+  letter-spacing: 0.5px;
+}
+
+.genPDF button:hover {
+  background: linear-gradient(135deg, #45a049, #3e8e41);
+  box-shadow: 0 10px 25px rgba(76, 175, 80, 0.4);
+  transform: translateY(-2px);
+}
+
+.genPDF button:active {
+  transform: scale(0.97);
+  box-shadow: 0 6px 15px rgba(76, 175, 80, 0.3);
+}
+.genPDF {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.genPDF button {
+  background: linear-gradient(135deg, #4CAF50, #45a049);
+  color: white;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(76, 175, 80, 0.2);
+  transition: all 0.3s ease;
+  outline: none;
+  letter-spacing: 0.5px;
+}
+
+.genPDF button:hover {
+  background: linear-gradient(135deg, #45a049, #3e8e41);
+  box-shadow: 0 10px 25px rgba(76, 175, 80, 0.4);
+  transform: translateY(-2px);
+}
+
+.genPDF button:active {
+  transform: scale(0.97);
+  box-shadow: 0 6px 15px rgba(76, 175, 80, 0.3);
+}
+.genPDF {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.genPDF button {
+  background: linear-gradient(135deg, #4CAF50, #45a049);
+  color: white;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(76, 175, 80, 0.2);
+  transition: all 0.3s ease;
+  outline: none;
+  letter-spacing: 0.5px;
+}
+
+.genPDF button:hover {
+  background: linear-gradient(135deg, #45a049, #3e8e41);
+  box-shadow: 0 10px 25px rgba(76, 175, 80, 0.4);
+  transform: translateY(-2px);
+}
+
+.genPDF button:active {
+  transform: scale(0.97);
+  box-shadow: 0 6px 15px rgba(76, 175, 80, 0.3);
+}
